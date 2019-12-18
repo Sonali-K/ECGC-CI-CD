@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # UserEcgcClient
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
@@ -30,3 +31,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # ECGC-CI-CD
 demo
 >>>>>>> f45183c7c465469c63681a72f381472f6b0ad3f0
+=======
+# ECGC-CI-CD
+>>>>>>> 052c1b66f9809d4173a4a176ba2991ee6edc7bb6
